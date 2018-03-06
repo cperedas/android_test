@@ -1,4 +1,4 @@
-package com.example.cpere.myappl;
+package com.example.cpere.myapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
